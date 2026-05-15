@@ -4,7 +4,7 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+This code builds and trains a feedforward neural network in PyTorch for a regression task. The model takes a single input feature, passes it through two hidden layers with ReLU activation, and predicts one continuous output. It uses MSE loss and RMSProp optimizer to minimize the error between predictions and actual values over training epochs.
 
 ## Neural Network Model
 <img width="1650" height="848" alt="Screenshot 2026-04-21 113451" src="https://github.com/user-attachments/assets/d6caca5b-e789-43e3-88d1-142f2f12ca05" />
